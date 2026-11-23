@@ -1,0 +1,8 @@
+
+import { app } from "./app.js";
+
+const PORT = Number(process.env.PORT ?? 3002);
+
+app.listen(PORT, "0.0.0.0", () => {
+    console.log(`API disponible en http://localhost:${PORT}`);
+});

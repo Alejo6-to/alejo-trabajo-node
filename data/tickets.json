@@ -1,0 +1,18 @@
+[
+  {
+    "id": "TCK-001",
+    "title": "Cama hospitalaria dañada",
+    "description": "La cama de la habitación 204 presenta problemas para ajustar su posición.",
+    "priority": "high",
+    "status": "open",
+    "requester": "mantenimiento@hospital.com"
+  },
+  {
+    "id": "TCK-002",
+    "title": "Computador no enciende",
+    "description": "El computador del área de recepción no enciende y requiere revisión técnica.",
+    "priority": "medium",
+    "status": "closed",
+    "requester": "recepcion@hospital.com"
+  }
+]

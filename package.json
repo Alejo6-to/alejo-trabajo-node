@@ -1,0 +1,17 @@
+{
+    "name": "taca-tickets-api",
+    "version": "1.0.0",
+    "description": "Exposicion visto en clase",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "node src/server.js",
+        "dev": "node --watch src/server.js"
+    },
+    "engines": {
+        "node": ">=24 <25"
+    },
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
